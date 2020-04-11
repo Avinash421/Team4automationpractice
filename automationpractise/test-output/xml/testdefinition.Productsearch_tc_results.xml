@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test3"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="38.196">
+  <properties />
+  
+  
+            <testcase name="enter_the_product_to_be_searched" time="38.196" classname="testdefinition.Productsearch_tc" />
+      
+</testsuite>

@@ -1,0 +1,21 @@
+2020-04-12 01:12:19 INFO  Register_tc:123 - browser opened
+2020-04-12 01:12:25 INFO  Register_tc:123 - user registration
+2020-04-12 01:12:27 INFO  Register_tc:123 - details enetered
+2020-04-12 01:12:31 INFO  Register_tc:123 - registeredaccount opened
+2020-04-12 01:12:36 INFO  Loginpage_tc:48 - opening browser
+2020-04-12 01:12:57 INFO  Loginpage_tc:48 - entered login details
+2020-04-12 01:12:57 INFO  Loginpage_tc:48 - login credentials is invalid
+2020-04-12 01:13:09 INFO  Productsearch_tc:121 - searching the product
+2020-04-12 01:13:09 INFO  Productsearch_tc:121 - searching the product
+2020-04-12 01:13:17 INFO  Productsearch_tc:121 - product is successfully added to cart
+2020-04-12 01:17:30 INFO  Loginpage_tc:48 - opening browser
+2020-04-12 01:17:39 INFO  Register_tc:123 - browser opened
+2020-04-12 01:17:39 INFO  Productsearch_tc:121 - searching the product
+2020-04-12 01:17:39 INFO  Productsearch_tc:121 - searching the product
+2020-04-12 01:17:46 INFO  Register_tc:123 - user registration
+2020-04-12 01:17:48 INFO  Productsearch_tc:121 - product is successfully added to cart
+2020-04-12 01:17:50 INFO  Register_tc:123 - details enetered
+2020-04-12 01:17:54 INFO  Register_tc:123 - registeredaccount opened
+2020-04-12 01:17:55 INFO  Loginpage_tc:48 - entered login details
+2020-04-12 01:17:55 INFO  Loginpage_tc:48 - login credentials is invalid
+2020-04-12 01:18:17 INFO  Productsearch_tc:121 - successfully loggedout

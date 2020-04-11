@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test1"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="80.753">
+  <properties />
+  
+  
+            <testcase name="registerpage" time="25.661" classname="pages.testngpriorities" />
+                <testcase name="loginpage" time="7.366" classname="pages.testngpriorities" />
+                <testcase name="OpenBrowser" time="21.071" classname="pages.testngpriorities" />
+                <testcase name="productsearch" time="26.655" classname="pages.testngpriorities" />
+      
+</testsuite>
